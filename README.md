@@ -1,5 +1,4 @@
 # RentMe-KevinXu
-Orbica full stack developer test.
 More detail on Documentation
 
 START APP
